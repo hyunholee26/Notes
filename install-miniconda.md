@@ -16,3 +16,5 @@ conda activate [가상환경이름]
 5. conda install 등을 활용하여 설치한다. 
 
 6. conda install python으로 파이썬 버전 추가 설치 가능함
+
+7. 주피터 노트북은 가상환경 안에서 설치해줘야 함
