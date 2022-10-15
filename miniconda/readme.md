@@ -1,3 +1,5 @@
+### 파이썬 가상환경 구성하는 법
+
 1. miniconda를 설치한다.
  - 다운로드 받아서 sftp로 올리고, 명령어를 실행
  - wget으로 받기
@@ -17,4 +19,4 @@ conda activate [가상환경이름]
 
 6. conda install python으로 파이썬 버전 추가 설치 가능함
 
-7. 주피터 노트북은 가상환경 안에서 설치해줘야 함
+7. 주피터 노트북은 가상환경 안에서 설치해줘야 함, jupyter notebook password를 실행해서 비번을 셋팅한다.
