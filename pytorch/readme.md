@@ -8,6 +8,6 @@
 
 3. pytorch 프레임워크는 밑바닥부터 시작하는 딥러닝 3권을 보면 도움이 많이 됨
 
-4. Dataset - Dataloader - Model - Optimizer 순으로 파악하면 됨, 
+4. Dataset - Dataloader - Model - train.py 순으로 파악하면 됨, 
  - 파이토치 튜토리얼: https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
  - 튜토리얼 설명이 자세하지 않은 경우, 직접 코드를 확인하는 것이 도움이 많이 됨, 파이토치 깃허브: https://github.com/pytorch
