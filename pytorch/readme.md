@@ -12,3 +12,22 @@
  - preprocressing, 결측치 처리, normalization 등 검토 필요
  - 파이토치 튜토리얼: https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
  - 튜토리얼 설명이 자세하지 않은 경우, 직접 코드를 확인하는 것이 도움이 많이 됨, 파이토치 깃허브: https://github.com/pytorch
+ 
+ ### 리눅스 명령어 모음
+ 
+ - GPU 체크 : nvidia-smi
+ - GPU 프로세스 kill : nvidia-smi | grep 'python' | awk '{ print $3 }' | xargs -n1 kill -9
+
+ - 텐서보드 실행: tensorboard --logdir=./outputs
+ - 텐서보드 종료: kill $(ps -e | grep 'tensorboard' | awk '{print $1}')
+
+ - 파이썬 백그라운드 : nohup python -u run_experiment.py > log-HSV-validx-DiceBCELoss-512.out &
+ - 백그라운드 파이썬 종료 : kill $(ps -ef | grep 'run_experiment.py' | awk '{print $2}')
+ - 백그라운드 파이썬 조회 : select : ps -ef | grep 'run_experiment.py'
+ - 백그라운드 파이썬 출력 : tail -f 파일명
+
+ - 기타
+   - show user PID regarding GPU : fuser -v /dev/nvidia*
+   - kill PID :kill -9 PID
+
+
