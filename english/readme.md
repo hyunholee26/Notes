@@ -1,3 +1,9 @@
+1. Did you get a chance to ~
+ - Did you get a chance to send the file?
+ - Did you get a chance to look at those data sets I sent over?
+ - Did you get a chance to sign the contract?
+ - Did you get a chance to check my email?
+ 
 14. It would be great if you could ~
  - It would be great if you could send it to me by tomorrow.
  - It would be great if you could review it as soon as you can.
