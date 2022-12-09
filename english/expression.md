@@ -45,5 +45,9 @@ jointly evaluated
 - To address these questions we structure the rest of the article 
 as follows: 
 
+강조하는 표현
+- However, we must note that
+
 부사
-- ancillary:  
+- ancillary: 보조적인 
+- no deficiency
