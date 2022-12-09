@@ -57,6 +57,8 @@ as follows:
 
 결론
 - In this paper we explored
+- Our results indicate that
+
 
 부사
 - ancillary: 보조적인 
