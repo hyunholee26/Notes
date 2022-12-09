@@ -29,6 +29,10 @@
 상호보완적 표현
 - may provide complementary
 
+비교하는 표현
+- Also, in comparison to
+
+
 언급하는 표현
 - these studies indicate that
 - majority of recent studies have typically use
