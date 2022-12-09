@@ -52,7 +52,7 @@ as follows:
 
 강조하는 표현
 - However, we must note that
-
+- Therefore, it makes sense to
 부사
 - ancillary: 보조적인 
 - no deficiency
