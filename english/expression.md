@@ -44,3 +44,6 @@ jointly evaluated
 - Through this study, we aim to address the following questions
 - To address these questions we structure the rest of the article 
 as follows: 
+
+부사
+- ancillary:  
