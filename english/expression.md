@@ -58,7 +58,7 @@ as follows:
 결론
 - In this paper we explored
 - Our results indicate that
-
+- The extension of our approach to benchmark the performance of different deep learning architectures for flood water segmentation is left for a future work. 
 
 부사
 - ancillary: 보조적인 
