@@ -15,7 +15,8 @@
 - Consequently,
 - Specifically,
 - Subsequently, 
-
+- As a result, 
+- 
 중요성 표현
 - is important for
 - is invaluable in providing
