@@ -15,8 +15,9 @@ dem30_epsg_list = list()
 for layer in QgsProject.instance().mapLayers().values():
     file_ext = os.path.splitext(layer.source())
     epsg = layer.crs().authid()
-    
     if(file_ext[1] == '.tif'): # layer names of SAR Image
+        print(epsg)
+        print(layer.name())
         sar_epsg_list.append(epsg)
         
     elif (file_ext[1] == '.hgt'): # layer names of DEM
