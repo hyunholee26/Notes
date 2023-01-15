@@ -6,6 +6,8 @@
  - CUDA driver가 설치되어 있지 않으면, GPU에 맞는 드라이버를 설치 (GPU 카드 버전 - CUDA drvier 버전 - pytorch 버전 순으로 확인)
  - CUDA driver에 맞는 pytorch 버전을 설치 (https://pytorch.org/get-started/previous-versions/)
 
+pip install torch==1.8.1+cu101 torchvision==0.9.1+cu101 torchaudio==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
+
 3. pytorch 프레임워크는 밑바닥부터 시작하는 딥러닝 3권을 보면 도움이 많이 됨
 
 4. Dataset - Dataloader - Model - train.py 순으로 파악하면 됨, 
