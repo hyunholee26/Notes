@@ -9,10 +9,7 @@
 
 conda install python=3.6
 
-gdal설치 에러로 setuptools 버전을 살짝 낮춤
-pip install setuptools==57.4.0
-
-pip install gdal
+conda install -c conda-forge gdal
 
 pip install torch==1.8.1+cu101 torchvision==0.9.1+cu101 torchaudio==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
 
