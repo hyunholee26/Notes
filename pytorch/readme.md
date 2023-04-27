@@ -39,4 +39,11 @@ pip install torch==1.8.1+cu101 torchvision==0.9.1+cu101 torchaudio==0.8.1 -f htt
    - show user PID regarding GPU : fuser -v /dev/nvidia*
    - kill PID :kill -9 PID
 
+### conda 명령어
+복제
+conda create -n py39_test_clone --clone py39
+
+삭제
+conda info --envs
+conda remove --name [가상환경명] --all
 
