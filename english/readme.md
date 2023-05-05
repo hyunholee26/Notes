@@ -1,38 +1,58 @@
 Obama's speech (https://www.youtube.com/watch?v=t7pc2j5OGp8)
 
-Tonight is a particular honor for me because
+Tonight is a particular honor for me because 
+```
 오늘밤은 / 특별히 더 영광스럽다 / 나에게 / 왜냐하면
+```
 
 let's face it
+```
 솔직히 말해서 (현실을 직시해서)
+```
 
 my presence on this stage is pretty unlikely
+```
 나의 존재 / 이 연단에서 / 거의 불가능한 일입니다.
+```
 
 my father was a foreign student.
+```
 나의 아버지는 외국인 유학생이었습니다.
+```
 
 born and raised in  a small village in Kenya
+```
 태어났고 / 자랐습니다 / 작은 마을에서 / 케냐의
+```
 
 He grew up herding goats
+```
 그는 / 자랐다 / 염소를 몰면서
+```
 
 went to school in a tin-roof shack.
+```
 학교를 다녔다 / 양철지붕으로된 판잣집의
+```
 
 His father my grandfather was a cook. a domestic servant to the british
+```
 그의 아버지 / 나의 할아버지는 / 요리사였다 / 영국인 가정의 하인
+```
 
 But my gradfather had larger dreams for his son.
+```
 하지만 / 나의 할아버지는 / 더 큰 꿈을 가졌다 / 그의 아들에게
+```
 
 Through hard work and perseverance
+```
 엄청난 노력과 끈기를 통해
-
+```
 my father got a scholarship to study in a magical place
+```
 나의 아버지는 / 받았다 / 장학금을 / 마법을 땅에서 공부하기 위해서(할수 있도록)
-
+```
 
 
 
