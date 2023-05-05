@@ -42,7 +42,7 @@ His father my grandfather was a cook. a domestic servant to the british
 
 But my gradfather had larger dreams for his son.
 ```
-하지만 / 나의 할아버지는 / 더 큰 꿈을 가졌다 / 그의 아들에게
+하지만 / 나의 할아버지는 / 가졌다 / 더 큰 꿈을 / 그의 아들에게
 ```
 
 Through hard work and perseverance
