@@ -51,7 +51,7 @@ Through hard work and perseverance
 ```
 my father got a scholarship to study in a magical place
 ```
-나의 아버지는 / 받았다 / 장학금을 / 마법을 땅에서 공부하기 위해서(할수 있도록)
+나의 아버지는 / 받았다 / 장학금을 / 마공부하기 위해서(할수 있도록) / 법을 땅에서 
 ```
 
 
