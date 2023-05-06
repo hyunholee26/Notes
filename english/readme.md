@@ -54,6 +54,36 @@ my father got a scholarship to study in a magical place
 나의 아버지는 / 받았다 / 장학금을 / 공부하기 위해서(할수 있도록) / 마법을 땅에서 
 ```
 
+America that shone as a beacon of freedom and opportunity to so many who had come before
+미국 / 빛났습니다 / 등불로 / 자유와 기회로 / 수많은 이들에게 / 왔던 / 이전에
+
+While studying here, my father met my mother.
+동안 / 공부하는 / 여기서 / 아버지는 / 만났다 / 어머니를
+
+She was born in a town on the other side of the world.
+그녀는 / 태어났습니다 / 타운에서 / 반대편의 / 세계
+
+My parents shared not only an improbable love,
+나의 부모님은 / 공유하셨다 / 뿐만 아니라 / 불가능해 보이는 사랑
+
+they shared an abiding faith in the possibilities of this nation.
+그들은 / 공유하였다 / 굳건한 / 신념을 / 가능성에 대한 / 이 나라의
+
+They would give me an African name believing that in a tolerant America your name is no barrier to success.
+그들은 / 주었다 / 나에게 / 아프리카식 이름을 / 믿으면서 / 관대한(참을성있는) 미국에서 / 너의 이름은 / 장벽이 아니다 / 성공에
+
+They imagined me going to the best schools in the land 
+그들은 / 상상했습니다 / 나를 / 다니다 / 최고의 학교에 / 미국전체에서(이 땅안에서)
+
+even though they weren't rich because in a generous America you don't have to be rich to achieve your potential.
+비록 / 그들은 / 부유하지 않았다 / 왜냐하면 / 관대한 미국에서 / 너는 / ~할 필요가 없다 / 부유한 / 발휘하기 위해서 / 너의 잠재력을
+
+
+
+
+
+
+
 
 
 
