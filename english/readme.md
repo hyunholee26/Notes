@@ -95,6 +95,58 @@ even though they weren't rich because in a generous America you don't have to be
 비록 / 그들은 / 부유하지 않았다 / 왜냐하면 / 관대한 미국에서 / 너는 / ~할 필요가 없다 / 부유한 / 발휘하기 위해서 / 너의 잠재력을
 ```
 
+We gather to affirm the greatness of our nation, not because of the height of our skyscrapers or the power of our military or the size of our economy
+```
+우리는 / 모였다 / 확인하기 위해 / 위대함을 / 우리 나라의 / 때문은 아니다 / 높이 / 우리의 고층빌딩의 / 혹은 / 힘 / 우리의 군사 / 혹은 / 규모 / 우리의 경제
+```
+
+Our pride is based on a very simple premise summed up in a declariation made over two hundred years ago
+```
+우리의 자부심은 / 기반에 두고 있다 / 아주 간단한 전제에 / 요약되어 있는 / 독립선언문에 / 만들어진 / 200년 전에
+```
+
+We hold thses truths to be self-evident that all men are created equal
+```
+우리는 / 간주한다 (가진다) / 이러한 사실들을 / 자명한 것으로 / 모든 사람들은 / 생성되었다, 태어났다 / 평등하게 / 
+```
+
+That they are endowed by their creator with certain inalienable rights
+```
+그들은 / 부여받았다 / 창조주에 의해 / 자명한 / 이양할 수 없는 / 권리들 
+```
+
+That among these are life, liberty and the pursuit of happiness
+```
+이 권리 중에는 / 생명 / 자유 / 그리고 추구 / 행복의
+```
+
+That is the true genius of America a faith in simple dreams an insistence on small miracles
+```
+이것이 / 이다 / 진정한 / 정신 / 미국의 / 믿음 / 소박한 꿈에 대한 / 강조 / 작은 / 기적들에 대한
+```
+
+That we can tuck in our children at night and know they are fed and clothed and safe from harm
+```
+우리가 / 이불을 덥어 줄 수 있다 / 우리의 아이들에게 / 밤에 / 여긴다 / 그들(아이들) / 먹이고 / 입히고 / 안전한 / 위험으로부터
+```
+
+That we can say what we think, write what we think without hearing a sudden knock on the door.
+```
+~하는 것 / 우리가 / 말할 수 있다 / 우리가 생각하는 것을 / 쓸수 있다 / 우리가 생각하는 것을 / ~없이 / 듣는 것 / 갑작스러운 노크 / 문에
+```
+
+That we can have an idea, and start our own business without paying a bribe
+```
+~하는 것 / 우리가 / 가질 수 있다 / 아이디어를 / 시작한다 / 우리의 / 자신의 / 사업을 / ~없이 / 지불하는 것 / 뇌물을
+```
+
+That we can participate in the political process without fear of retribution and that our votes will be counted at least most of the time
+```
+~하는 것 / 우리가 / 참여할 수 있다 / 정치활동에 / ~없이 / 공포, 두려움 / 보복의 / 그리고 / 우리의 / 투표가 / 제역할을 할 것이다. / 적어도 대부분의 경우
+```
+
+
+
 
 
 
