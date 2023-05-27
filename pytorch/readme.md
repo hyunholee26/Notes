@@ -34,7 +34,7 @@ conda install python=3.6
  - 백그라운드 파이썬 종료 : kill $(ps -ef | grep 'run_experiment.py' | awk '{print $2}')
  - 백그라운드 파이썬 조회 : select : ps -ef | grep 'run_experiment.py'
  - 백그라운드 파이썬 출력 : tail -f 파일명
-
+ - 스토리지 용량 : du -h --max-depth=1
  - 기타
    - show user PID regarding GPU : fuser -v /dev/nvidia*
    - kill PID :kill -9 PID
