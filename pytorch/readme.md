@@ -50,3 +50,16 @@ conda remove --name [가상환경명] --all
 mmsegmentation은 그냥 따라하면 설치가 어렵지는 않음!
 - git clone -b main https://github.com/NASA-IMPACT/hls-foundation-os.git
 - pip install mmcv-full==1.6.2 -f https://download.openmmlab.com/mmcv/dist/cu101/torch1.8.0/index.html
+
+### mask2former 환경설정 
+- conda create --name gfm python=3.9 -y // 가상환경 with python
+- pip install torch==1.8.1+cu101 torchvision==0.9.1+cu101 torchaudio==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html // 파이토치
+- git clone -b main https://github.com/NASA-IMPACT/hls-foundation-os.git
+- pip install -e .
+- pip install -U openmim
+- mim install mmengine
+- mim install "mmcv>=2.0.0"
+- mim install mmdet
+- pip install "mmsegmentation>=1.0.0"
+
+
