@@ -48,4 +48,4 @@ conda info --envs
 conda remove --name [가상환경명] --all
 
 mmsegmentation은 그냥 따라하면 설치가 어렵지는 않음!
-pip install geospatial_fm
+- pip install geospatial_fm
