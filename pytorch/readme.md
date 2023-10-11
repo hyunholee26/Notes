@@ -43,8 +43,9 @@ conda install python=3.6
 복제
 conda create -n py39_test_clone --clone py39
 
-삭제
 conda info --envs
+삭제
 conda remove --name [가상환경명] --all
 
 mmsegmentation은 그냥 따라하면 설치가 어렵지는 않음!
+pip install geospatial_fm
