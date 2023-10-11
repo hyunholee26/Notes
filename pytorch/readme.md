@@ -49,4 +49,4 @@ conda remove --name [가상환경명] --all
 
 mmsegmentation은 그냥 따라하면 설치가 어렵지는 않음!
 - git clone -b main https://github.com/NASA-IMPACT/hls-foundation-os.git
-- pip install geospatial_fm
+- pip install mmcv-full==1.6.2 -f https://download.openmmlab.com/mmcv/dist/cu101/torch1.8.0/index.html
