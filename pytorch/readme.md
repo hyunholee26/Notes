@@ -62,4 +62,12 @@ mmsegmentation은 그냥 따라하면 설치가 어렵지는 않음!
 - mim install mmdet
 - pip install "mmsegmentation>=1.0.0"
 
+### 가상환경 메모
+- 6GB GPU 서버
+  - torch: 일반 pytorch
+  - ibmgfm: ibmgfm용, mmcv==1.6.2
+- 24GB GPU 서버
+  - mask2former: mask2former용, mmcv>=2.0
+  - internimage: internimage용, mmcv==1.5.0     
+
 
