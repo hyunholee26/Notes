@@ -40,9 +40,9 @@ conda install python=3.6
    - kill PID :kill -9 PID
 
 ### conda 명령어
-- 복제: conda create -n py39_test_clone --clone py39
-- 조회: conda info --envs
-- 삭제: conda remove --name [가상환경명] --all
+ - 복제: conda create -n py39_test_clone --clone py39
+ - 조회: conda info --envs
+ - 삭제: conda remove --name [가상환경명] --all
 
 mmsegmentation은 그냥 따라하면 설치가 어렵지는 않음!
 - git clone -b main https://github.com/NASA-IMPACT/hls-foundation-os.git
