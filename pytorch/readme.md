@@ -65,6 +65,9 @@ mmsegmentation은 그냥 따라하면 설치가 어렵지는 않음!
   - ibmgfm: ibmgfm용, mmcv==1.6.2
 - 24GB GPU 서버
   - mask2former: mask2former용, mmcv>=2.0
-  - internimage: internimage용, mmcv==1.5.0     
+  - internimage: internimage용, mmcv==1.5.0
+
+### feature map size 계산
+  - https://woochan-autobiography.tistory.com/884 
 
 
