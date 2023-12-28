@@ -68,6 +68,12 @@ mmsegmentation은 그냥 따라하면 설치가 어렵지는 않음!
   - internimage: internimage용, mmcv==1.5.0
 
 ### feature map size 계산
-  - https://woochan-autobiography.tistory.com/884 
+  - https://woochan-autobiography.tistory.com/884
+
+### 주피터에서 커널 선택
+conda install ipykernel
+python -m ipykernel install --user --name=mmseg
+주피터에서 커널 선택
+
 
 
