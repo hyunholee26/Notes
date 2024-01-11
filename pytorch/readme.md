@@ -71,9 +71,9 @@ mmsegmentation은 그냥 따라하면 설치가 어렵지는 않음!
   - https://woochan-autobiography.tistory.com/884
 
 ### 주피터에서 커널 선택
-conda install ipykernel
-python -m ipykernel install --user --name=mmseg
-주피터에서 커널 선택
+ - conda install ipykernel
+ - python -m ipykernel install --user --name=mmseg
+ - 주피터에서 커널 선택
 
 ### mmseg inference시
 unil.py의 load부분과 annotation관련 함수 부분을 수정해줘야함
