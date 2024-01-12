@@ -10,6 +10,6 @@
   - 2023.12.13: under review로 다시 바뀜
   - 2023.12.14: reviewer invited로 다시 바뀜
   - 2023.12.26: under review로 다시 바뀜
-  - 2024. 1.12: All Reviews Completed
-
+  - 2024.1.12: All Reviews Completed
+          
 3. 
