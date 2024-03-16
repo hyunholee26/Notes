@@ -11,5 +11,8 @@
   - 2023.12.14: reviewer invited로 다시 바뀜
   - 2023.12.26: under review로 다시 바뀜
   - 2024.1.12: All Reviews Completed
-          
-3. 
+  - 2024.3.13: resubmisstion함
+  - 2024.3.15: Under review.        
+3. Enhancing Cross-Modal Feature-Label Consistency for Weakly Supervised Semantic Segmentation in Flood Mapping
+  - first author
+  - 2024.3.9: CVPR W에 제출함 
