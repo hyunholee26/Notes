@@ -78,4 +78,9 @@ mmsegmentation은 그냥 따라하면 설치가 어렵지는 않음!
 ### mmseg inference시
 unil.py의 load부분과 annotation관련 함수 부분을 수정해줘야함
 
+### 모듈 재컴파일 및 다시 로드
+python -m compileall .
 
+import importlib
+import dataset
+importlib.reload(dataset)
