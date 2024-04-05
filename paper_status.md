@@ -18,4 +18,5 @@
        
 3. Enhancing Cross-Modal Feature-Label Consistency for Weakly Supervised Semantic Segmentation in Flood Mapping
   - first author
-  - 2024.3.9: CVPR W에 제출함 
+  - 2024.3.9: CVPR W에 제출함
+  - 2024.4.5: reject ㅠㅠ
