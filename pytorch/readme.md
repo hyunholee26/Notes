@@ -15,6 +15,10 @@ conda install python=3.6
 
 - esda: pip install esda
 
+[참고]
+- CUDA 11.7
+conda install pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 pytorch-cuda=11.7 -c pytorch -c nvidia
+
 3. pytorch 프레임워크는 밑바닥부터 시작하는 딥러닝 3권을 보면 도움이 많이 됨
 
 4. Dataset - Dataloader - Model - train.py 순으로 파악하면 됨, 
