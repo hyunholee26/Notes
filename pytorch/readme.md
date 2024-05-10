@@ -43,6 +43,7 @@ conda install python=3.6
    - kill PID :kill -9 PID
 
 ### conda 명령어
+ - 생성: conda create --name gfm python=3.9 -y // 가상환경 with python
  - 복제: conda create -n py39_test_clone --clone py39
  - 조회: conda info --envs
  - 삭제: conda remove --name [가상환경명] --all
