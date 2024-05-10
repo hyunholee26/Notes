@@ -86,4 +86,12 @@ unil.py의 load부분과 annotation관련 함수 부분을 수정해줘야함
  - python -m compileall .
  - import importlib 
  - import dataset 
- - importlib.reload(dataset) 
+ - importlib.reload(dataset)
+
+### tmp 삭제
+
+pip의 경우
+$ pip cache purge
+
+conda의 경우
+$ conda clean -all
