@@ -25,4 +25,6 @@
   - 2024.3.9: CVPR Workshop에 제출함
   - 2024.4.5: reject ㅠㅠ
 
-4. 
+4. SMAGNet
+  - first author
+  - 2024.11.20: IEEE TGRS에 제출함
