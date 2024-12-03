@@ -28,3 +28,5 @@
 4. SMAGNet
   - first author
   - 2024.11.20: IEEE TGRS에 제출함
+  - 2024.11.30: IEEE TGRS desk reject
+  - 
