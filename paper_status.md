@@ -29,4 +29,4 @@
   - first author
   - 2024.11.20: IEEE TGRS에 제출함
   - 2024.11.30: IEEE TGRS desk reject
-  - 
+  - 2024.12.9: ISPRS P&RS 제출함, with editor
