@@ -33,4 +33,4 @@
   - 2025.1.25: under reivew
   - 2025.3.3: Required Reviews Completed
   - 2025.3.16: Major revision
-  - 2025.5.13: resubmisstion함
+  - 2025.5.13: resubmisstion함 (With Editor)
