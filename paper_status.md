@@ -32,3 +32,5 @@
   - 2024.12.9: ISPRS P&RS 제출함, with editor
   - 2025.1.25: under reivew
   - 2025.3.3: Required Reviews Completed
+  - 2025.3.16: Major revision
+  - 2025.5.13: resubmisstion함
