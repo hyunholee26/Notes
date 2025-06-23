@@ -31,6 +31,8 @@
   - 2024.11.30: IEEE TGRS desk reject
   - 2024.12.9: ISPRS P&RS 제출함, with editor
   - 2025.1.25: under reivew
-  - 2025.3.3: Required Reviews Completed
+  - 2025.3.3: Required Reviews Completed (대략 한달정도 준듯)
   - 2025.3.16: Major revision
   - 2025.5.13: resubmisstion함 (With Editor)
+  - 2025.5.26 및 29: review각각 review 수락
+  - 2025.6.22: Required Reviews Completed (대략 3주정도 준듯)
