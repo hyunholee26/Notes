@@ -36,3 +36,4 @@
   - 2025.5.13: resubmisstion함 (With Editor)
   - 2025.5.26 및 29: review각각 review 수락
   - 2025.6.22: Required Reviews Completed (대략 3주정도 준듯)
+  - 2025.8.3: Decision in Process
