@@ -38,3 +38,8 @@
   - 2025.6.22: Required Reviews Completed (대략 3주정도 준듯)
   - 2025.8.3: Decision in Process => minor revision
   - 2025.8.7: resubmit => With editor
+  - 계속: 언더리뷰중 -_-;;
+
+5. ADAGE
+   - 2025.10.26: ISPRS P&RS (VSI:XGeoAI) submit -> with editor상태
+   - 2025.10.28: submitted to Journal 상태로 변경 (스페셜 이슈라 그런가?)
