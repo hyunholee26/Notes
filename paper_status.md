@@ -43,3 +43,5 @@
 5. ADAGE
   - 2025.10.26: ISPRS P&RS (VSI:XGeoAI) submit -> with editor상태
   - 2025.10.28: submitted to Journal 상태로 변경 (스페셜 이슈라 그런가?)
+  - 2025.10.30: 다시 with editor로 변경
+
